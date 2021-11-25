@@ -1,2 +1,5 @@
-server:
-  port: 3302
+data:
+  env: NaN1233
+  user:
+    username: NaN3333
+    password: NaN3333
